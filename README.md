@@ -21,7 +21,15 @@ An Android test harness for the **CoreAI** on-device LLM service (`com.stridetec
 
 ## Download
 
-[Download CoreAiClient.apk](https://github.com/akshay-baiplawat/Core-Ai-Client/releases/download/CoreAIClient/CoreAiClient.apk)
+<div align="center">
+
+### 📥 [Download APK](https://github.com/akshay-baiplawat/Core-Ai-Client/releases/download/CoreAIClient/CoreAiClient.apk)
+
+**Min Android Version:** 12.0 (API 36) | **Size:** ~21 MB
+
+[![Download APK](https://img.shields.io/badge/Download-APK-brightgreen?style=for-the-badge&logo=android)](https://github.com/akshay-baiplawat/Core-Ai-Client/releases/download/CoreAIClient/CoreAiClient.apk)
+
+</div>
 
 ---
 

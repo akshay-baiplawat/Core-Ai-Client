@@ -19,6 +19,12 @@ An Android test harness for the **CoreAI** on-device LLM service (`com.stridetec
 
 ---
 
+## Download
+
+[Download CoreAiClient.apk](https://github.com/akshay-baiplawat/Core-Ai-Client/releases/download/CoreAIClient/CoreAiClient.apk)
+
+---
+
 ## Prerequisites
 
 | Requirement | Detail |

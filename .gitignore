@@ -1,0 +1,72 @@
+# ============================================================
+# Android / Kotlin
+# ============================================================
+
+# Gradle build outputs
+/build/
+app/build/
+**/build/
+
+# Gradle wrapper cache & daemon
+.gradle/
+gradle/wrapper/gradle-wrapper.jar
+
+# Local config – contains SDK path, NEVER commit
+local.properties
+
+# Keystore & signing
+*.jks
+*.keystore
+keystore.properties
+release.keystore
+
+# Generated / cached files
+*.iml
+.cxx/
+.externalNativeBuild/
+
+# ============================================================
+# Android Studio / IntelliJ IDEA
+# ============================================================
+.idea/caches/
+.idea/libraries/
+.idea/modules.xml
+.idea/workspace.xml
+.idea/navEditor.xml
+.idea/assetWizardSettings.xml
+.idea/.name
+.idea/compiler.xml
+.idea/misc.xml
+.idea/deploymentTargetDropDown.xml
+.idea/androidTestResultsUserPreferences.xml
+
+# Captures (profiling, screenshots)
+/captures/
+
+# ============================================================
+# VS Code
+# ============================================================
+.vscode/
+
+# ============================================================
+# Claude Code internal files
+# ============================================================
+.claude/
+
+# ============================================================
+# macOS
+# ============================================================
+.DS_Store
+**/.DS_Store
+._*
+.Spotlight-V100
+.Trashes
+
+# ============================================================
+# Secrets & environment
+# ============================================================
+*.env
+.env
+.env.*
+google-services.json
+secrets.xml
